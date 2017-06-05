@@ -1,5 +1,5 @@
 # akshay.github.io<br>
-<b>A simple interactive bio/CV page made with HTML,CSS and bootstrap.</b>
+<b>A simple interactive bio/CV page made with HTML,CSS and bootstrap.Click<a href="https://github.com/yo-akshay/akshay.github.io"> here </a>to see my portfolio site.</b>
 <br>
 Screenshots
 <br>
