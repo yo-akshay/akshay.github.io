@@ -1,5 +1,5 @@
 # akshay.github.io<br>
-<b>A simple interactive bio/CV page made with HTML,CSS and bootstrap.Click<a href="https://yo-akshay.github.io/akshay.github.io/"> here </a>to see my portfolio site.</b>
+<b>CV page made with HTML,CSS and bootstrap.Click<a href="https://yo-akshay.github.io/akshay.github.io/"> here </a>to see my portfolio site.</b>
 <br>
 Screenshots
 <br>
@@ -8,4 +8,4 @@ Screenshots
 <br>
 <b>It's also mobile view adjustable</b>
 <br>
-![alt tag](https://github.com/yo-akshay/akshay.github.io/blob/master/sc2.jpeg)
+![ScreenShot](https://github.com/yo-akshay/akshay.github.io/blob/master/sc2.png)
